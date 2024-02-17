@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**itsyourshivva/itsyourshivva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Krutika Solanki
 
-Here are some ideas to get you started:
+## Introduction
+Hello there! 👋 I'm Krutika Solanki, a third-year Computer Science and Engineering student passionate about web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 Currently pursuing B.Tech in Computer Science and Engineering
+- 🌱 Actively learning and exploring web development technologies
+- ⚡ Aspiring to create meaningful and impactful web applications
+
+## Technologies and Tools
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Node.js
+- Git/GitHub
+- ...and more to come!
+
+Feel free to explore the individual project folders for more details!
