@@ -1,22 +1,14 @@
-### Hi there 👋 
+## Hey 👋, I'm Krutika Solanki!
 
-# I'm Krutika Solanki
+I am a versatile student, good at Java, C++ and DSA.
 
-## Introduction
-Hello there! 👋 I'm Krutika Solanki, a third-year Computer Science and Engineering student passionate about web development.
+<br/>
 
-## About Me
-- 🎓 Currently pursuing B.Tech in Computer Science and Engineering
-- 🌱 Actively learning and exploring web development technologies
-- ⚡ Aspiring to create meaningful and impactful web applications
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-## Technologies and Tools
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Node.js
-- Git/GitHub
-- ...and more to come!
+### 📊 Github Stats
+<a href='https://github.com/krutika-solanki/github-stats-transparent'>
+  
+(![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krutika-solanki&theme=dracula&show_icons=true&hide_border=true&layout=compact))
 
-Feel free to explore the individual project folders for more details!
+</a>
